@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25e0dbce-d970-4336-a6c4-767635b4201d" name="Changes" comment="1002 - Area of circle">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Beginner/SimpleSum_1003.java" afterDir="false" />
+    <list default="true" id="25e0dbce-d970-4336-a6c4-767635b4201d" name="Changes" comment="1004 Simple Product">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Beginner/SimpleProduct_1004.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Projetos github terceiros/VenturaHrTp9" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.SimpleSum_1003">
+  <component name="RunManager" selected="Application.SimpleProduct_1004">
     <configuration name="AreaCircle_1002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beginner.AreaCircle_1002" />
       <module name="BeeCrowd-Java" />
@@ -85,6 +85,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SimpleProduct_1004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beginner.SimpleProduct_1004" />
+      <module name="BeeCrowd-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Beginner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SimpleSum_1003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beginner.SimpleSum_1003" />
       <module name="BeeCrowd-Java" />
@@ -100,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleProduct_1004" />
         <item itemvalue="Application.SimpleSum_1003" />
         <item itemvalue="Application.AreaCircle_1002" />
         <item itemvalue="Application.ExtremelyBasic_1001" />
@@ -137,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644216869137</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1003 - Simple Sum">
+      <created>1644217629701</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644217629701</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +176,8 @@
     <MESSAGE value="URI 1000" />
     <MESSAGE value="." />
     <MESSAGE value="1002 - Area of circle" />
-    <option name="LAST_COMMIT_MESSAGE" value="1002 - Area of circle" />
+    <MESSAGE value="1003 - Simple Sum" />
+    <MESSAGE value="1004 Simple Product" />
+    <option name="LAST_COMMIT_MESSAGE" value="1004 Simple Product" />
   </component>
 </project>
